@@ -1,0 +1,9 @@
+print("hello world")
+a=12;
+b=15;
+print(a)
+print(b)
+print("add",a+b)
+print("sub",b-a)
+print("mul",a*b)
+print("div",a/b)
